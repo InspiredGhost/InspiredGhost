@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @InspiredGhost
-- 👀 I’m interested in Web, Mobile, AI, Robotics, and the likes. 
-- 🌱 I’m currently learning Ruby and React
-- 💞️ I’m looking to collaborate on anythithing interesting
-- 📫 How to reach me @DesmondMde on twitter
+- 👀 I’m interested in Web, Mobile, AI, Robotics, and the like. 
+🌱: Full Stack Developer
+- 💞️ I’m looking to collaborate on anything interesting
+- 📫 How to reach me @DesmondMde on Twitter
 
 <!---
 InspiredGhost/InspiredGhost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
