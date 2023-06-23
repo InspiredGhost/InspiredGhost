@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @InspiredGhost
 - 👀 I’m interested in Web, Mobile, AI, Robotics, and the like. 
--🌱: Full Stack Developer
+- 🌱 Full Stack Developer
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me @DesmondMde on Twitter
 
